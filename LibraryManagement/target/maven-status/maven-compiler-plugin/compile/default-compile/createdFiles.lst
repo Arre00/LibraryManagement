@@ -1,0 +1,16 @@
+org\example\Model\Book.class
+org\example\Model\Wishlist.class
+org\example\Repository\AppUserRepository.class
+org\example\Application.class
+org\example\Model\User.class
+org\example\Config\AsyncConfig.class
+org\example\Config\DataInitializer.class
+org\example\Exception\GlobalExceptionHandler$ErrorResponse.class
+org\example\Service\BookService.class
+org\example\Exception\GlobalExceptionHandler.class
+org\example\Repository\WishlistRepository.class
+org\example\Service\NotificationService.class
+org\example\Controller\BookController.class
+org\example\Model\Book$AvailabilityStatus.class
+org\example\Model\AppUser.class
+org\example\Repository\BookRepository.class
